@@ -43,7 +43,7 @@ public class classjava {
 		System.out.println(" vol of woodbox box is " + woodBox .volume());
 		
 	
-  /*  System.out.println( " blackBox . length : " + blackBox . length);
+    System.out.println( " blackBox . length : " + blackBox . length);
     System.out.println( " blackBox . breadth : "+ blackBox . breadth);
     System.out.println( " blackBox . height : "+ blackBox .  height);
     
@@ -52,6 +52,6 @@ public class classjava {
     System.out.println( " woodBox . length :"+ woodBox. length);
     System.out.println( " woodBox . breadth :"+ woodBox . breadth);
     System.out.println( " woodBox . height :"+  woodBox .  height);
-    */
+    
 	}
 }
